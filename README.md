@@ -32,3 +32,4 @@ Graduado en Ingeniería Electrónica del ITBA. Posee 3 años de experiencia como
 Durante sus años de estudio se desempeñó como ayudante en materias como Redes Neuronales y Teoría de Circuitos. También fue voluntario y presidente de la rama estudiantil IEEE ITBA donde fundó el curso de Python introductorio, dictado por esta organización.
 
 -------------------------------------------------------------------------
+=========================================================================
